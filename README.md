@@ -1,4 +1,4 @@
-# Verkefni 5
+# Verkefni 5 Toyts Maloyts
 
 Útfæra skal birtingu með flexbox eftir fyrirmynd.
 
