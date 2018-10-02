@@ -1,6 +1,6 @@
-# Verkefni 5 Toyts Maloyts
+# Verkefni 5 
 
-Útfæra skal birtingu með flexbox eftir fyrirmynd.
+Útfæra skal sjúklega netta birtingu með flexbox eftir fyrirmynd.
 
 Gefin er `index.html` skrá sem _ekki_ skal eiga við fyrir utan að bæta skal við `class` við element þar sem þarf. Heiti þessara klasa skulu fylgja BEM .
 
