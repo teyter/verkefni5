@@ -59,7 +59,6 @@ main {
     font-weight: bold;
     margin-top: 0.5rem;
     flex: 1 0 auto;
-    margin: 8px;
 }
 
 .card__tag { /*li*/
