@@ -74,12 +74,12 @@ main {
 
 .card__content { /*text og mynd*/
     display: flex;
+    overflow-y: auto;
 }
 
 .card__text { /*div utan um texta*/ 
     font-size: 1em;
     line-height: 1.375;
-    overflow: auto;
     word-break: break-all;
 }
 
